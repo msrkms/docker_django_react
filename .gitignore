@@ -1,0 +1,12 @@
+# General
+.DS_Store
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+venv/
+
+# Node.js
+node_modules/
+build/
